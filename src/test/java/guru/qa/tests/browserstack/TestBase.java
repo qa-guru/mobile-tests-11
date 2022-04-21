@@ -1,4 +1,4 @@
-package guru.qa.tests;
+package guru.qa.tests.browserstack;
 
 import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.Selenide;

@@ -1,4 +1,4 @@
-package guru.qa.tests;
+package guru.qa.tests.browserstack;
 
 import io.appium.java_client.AppiumBy;
 import org.junit.jupiter.api.Test;
